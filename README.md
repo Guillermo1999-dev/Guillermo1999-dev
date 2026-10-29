@@ -60,5 +60,3 @@ Hago juegos y también enseño a hacerlos. Me gusta el arte con alma retro, las 
     <img src="https://img.shields.io/badge/Gmail-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
   </a>
 </p>
-
-<p align="center"><sub><i>«Quien nombra la sombra ya no camina a ciegas.»</i></sub></p>
