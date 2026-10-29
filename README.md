@@ -1,21 +1,11 @@
-<div align="center">
-
-<pre>
+```
 +-------------------------------------------------+
 | G U I L L E R M O   C A R R A S C O   M A Y O R |
 +-------------------------------------------------+
+o==[]:::::::::::::::::::::::::::::::::::::::::::::>
+```
 
-              /\
-             /  \
-            |    |
-            |    |
-            |    |
-      ______|    |______
-     |______    ______|
-            |  |
-            |  |
-            |__|
-</pre>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=700&size=17&pause=1400&color=D28A45&center=true&vCenter=true&width=560&lines=Desarrollador+de+videojuegos;Profesor+de+DAM+y+DAW;Unity+%7C+C%23+%7C+Blender+%7C+Java+%7C+Python" alt="Desarrollador de videojuegos y profesor de DAM y DAW">
 
@@ -28,7 +18,7 @@
 ```
 CLASE ...... Desarrollador de videojuegos
 SUBCLASE ... Profesor de DAM y DAW
-BASE ....... Instituto Superior Vigara FP
+BASE ....... Profesor de desarrollo de software
 ARMAS ...... Unity, C#, Blender, Java, Python
 EN CURSO ... Grimorio de Morvan y un juego Unity para navegador
 ```
@@ -48,12 +38,11 @@ Hago juegos y también enseño a hacerlos. Me gusta el arte con alma retro, las 
 ### Capítulo III · Misiones destacadas
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO/grimorio-ascii">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=grimorio-ascii&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="Grimorio de Morvan">
+  <a href="https://grimoireascii.netlify.app/">
+    <img src="assets/grimorio-morvan.png" width="760" alt="Grimorio de Morvan: web de fantasía medieval en ASCII">
   </a>
-  <a href="https://github.com/TU_USUARIO/NOMBRE_REPO_UNITY">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=TU_USUARIO&repo=NOMBRE_REPO_UNITY&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45" alt="Juego Unity">
-  </a>
+  <br>
+  <sub>Pulsa la imagen para entrar al grimorio</sub>
 </p>
 
 - **Grimorio de Morvan**: web de fantasía medieval dibujada con ASCII (Python, Java, HTML, CSS y JS).
@@ -61,20 +50,15 @@ Hago juegos y también enseño a hacerlos. Me gusta el arte con alma retro, las 
 
 ---
 
-### Capítulo IV · Estadísticas
+### Capítulo IV · Contacto
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&icon_color=D28A45&locale=es" alt="Estadísticas de GitHub">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&langs_count=6&hide_border=true&bg_color=232323&title_color=ECE7DA&text_color=A39E92&locale=es" alt="Lenguajes más usados">
-</p>
-
----
-
-### Capítulo V · Contacto
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/TU_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-232323?style=for-the-badge&logo=linkedin&logoColor=ECE7DA" alt="LinkedIn"></a>
-  <a href="mailto:TU_EMAIL"><img src="https://img.shields.io/badge/Correo-232323?style=for-the-badge&logo=gmail&logoColor=D28A45" alt="Correo"></a>
+  <a href="https://www.linkedin.com/in/guillermo-carrasco-mayor/">
+    <img src="https://img.shields.io/badge/LinkedIn-Guillermo_Carrasco-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+  <a href="mailto:guillermocarrascomayor@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-Escr%C3%ADbeme-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Correo">
+  </a>
 </p>
 
 <p align="center"><sub><i>«Quien nombra la sombra ya no camina a ciegas.»</i></sub></p>
